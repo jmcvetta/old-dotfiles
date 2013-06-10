@@ -1,0 +1,11 @@
+[user]
+	email = jason.mcvetta@gmail.com
+	name = Jason McVetta
+[color]
+	ui = true
+[push]
+	default = simple
+[alias]
+	st = status
+	ci = commit
+	di = diff
